@@ -29,5 +29,5 @@ The project is organized into the following files:
 To get started with this project, simply clone this repository:
 
 ```bash
-git clone https://github.com/your_username/deep-learning-from-scratch.git
+git clone https://github.com/rookie727/Deep-Learning-from-Scratch-Numpy-Implementation.git
 
